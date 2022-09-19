@@ -1,0 +1,15 @@
+<p><b>Jaun</b> (<a href=\mailto:juan@gmail.com">juan@gmail.com</a>) wrote on <i>16/09/22</i>;<br>Hola Franco Como estas</p>
+ 
+ <p><b>Jaun</b> (<a href=\mailto:juan@gmail.com">juan@gmail.com</a>) wrote on <i>16.09.22</i>;<br>Hola Franco Como estas</p>
+ 
+ <p><b>Fran</b> (<a href=\mailto:Frann@gmail.com">Frann@gmail.com</a>) wrote on <i></i>;<br>Hola</p>
+ 
+ <p><b>Alan</b> (<a href=\mailto:Alan@gmail.com">Alan@gmail.com</a>) wrote on <i></i>;<br>Hola, como estas!</p>
+ 
+ <p><b>Alan</b> (<a href=\mailto:Alan@gmail.com">Alan@gmail.com</a>) wrote on <i></i>;<br>Hola, como estas!</p>
+ 
+ <p><b>Fran</b> (<a href=\mailto:Frann@gmail.com">Frann@gmail.com</a>) wrote on <i></i>;<br>Hola</p>
+ 
+ <p><b>Fran</b> (<a href=\mailto:Frann@gmail.com">Frann@gmail.com</a>) wrote on <i></i>;<br>Hola</p>
+ 
+  

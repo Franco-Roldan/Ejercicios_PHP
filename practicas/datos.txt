@@ -1,0 +1,26 @@
+<p>---------------------------------------</p>
+<h3>-- Nuevo Pedido -- </h3>
+<p>Nombre:Fran</p>
+<p>Dirección: Mitre 2311</p>
+<p>Fecha: 18/09/22 | 3:55</p>
+<p>Pedido: </p>
+<li> - Mozzarella, cantidad: 5</li> 
+<p>---------------------------------------</p>
+<p>---------------------------------------</p>
+<h3>-- Nuevo Pedido -- </h3>
+<p>Nombre:Franco Roldan</p>
+<p>Dirección: Lopez y Panes 2020</p>
+<p>Fecha: 18/09/22 | 3:54</p>
+<p>Pedido: </p>
+<li> - jamon_y_queso, cantidad: 3</li>
+<li> - Napolitana, cantidad: 2</li> 
+<p>---------------------------------------</p>
+<p>---------------------------------------</p>
+<h3>-- Nuevo Pedido -- </h3>
+<p>Nombre:Franco </p>
+<p>Dirección: Av. Freyre 2460</p>
+<p>Fecha: 18/09/22 | 3:52</p>
+<p>Pedido: </p>
+<li> - Napolitana, cantidad: 1</li> 
+<p>---------------------------------------</p>
+ 
